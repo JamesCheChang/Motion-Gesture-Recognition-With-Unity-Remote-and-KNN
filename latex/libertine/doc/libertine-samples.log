@@ -1,0 +1,1084 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.11.9)  23 DEC 2025 14:54
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**libertine-samples.tex
+(./libertine-samples.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count196
+\c@section=\count197
+\c@subsection=\count198
+\c@subsubsection=\count199
+\c@paragraph=\count266
+\c@subparagraph=\count267
+\c@figure=\count268
+\c@table=\count269
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/libertine/libertine.sty
+Package: libertine 2024/04/23 (Bob Tennent) Supports Libertine and Biolinum fon
+ts for all LaTeX engines.
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+))
+(/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2025/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks17
+\XKV@tempa@toks=\toks18
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/xkeyval/keyval.tex))
+\XKV@depth=\count270
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/fontaxes/fontaxes.sty
+Package: fontaxes 2020/07/21 v1.0e Font selection axes
+LaTeX Info: Redefining \upshape on input line 29.
+LaTeX Info: Redefining \itshape on input line 31.
+LaTeX Info: Redefining \slshape on input line 33.
+LaTeX Info: Redefining \swshape on input line 35.
+LaTeX Info: Redefining \scshape on input line 37.
+LaTeX Info: Redefining \sscshape on input line 39.
+LaTeX Info: Redefining \ulcshape on input line 41.
+LaTeX Info: Redefining \textsw on input line 47.
+LaTeX Info: Redefining \textssc on input line 48.
+LaTeX Info: Redefining \textulc on input line 49.
+)
+LaTeX Info: Redefining \oldstylenums on input line 485.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/libertine/LinLibertine_I.tex))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/lipsum/lipsum.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+(/usr/local/texlive/2025/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2025-01-18 L3 programming layer (loader) 
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count271
+\l__pdf_internal_box=\box52
+))
+Package: l3keys2e 2024-08-16 LaTeX2e option processing using LaTeX3 keys
+)
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count272
+\l__lipsum_a_int=\count273
+\l__lipsum_b_int=\count274
+(/usr/local/texlive/2025/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2024-11-05 v7.01l Hypertext links for LaTeX
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+))
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/gettitlestring/gettitlestring.s
+ty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count275
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count276
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\@linkdim=\dimen142
+\Hy@linkcounter=\count277
+\Hy@pagecounter=\count278
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2024-11-05 v7.01l Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/usr/local/texlive/2025/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count279
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2024-11-05 v7.01l Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 4040.
+Package hyperref Info: Hyper figures OFF on input line 4157.
+Package hyperref Info: Link nesting OFF on input line 4162.
+Package hyperref Info: Hyper index ON on input line 4165.
+Package hyperref Info: Plain pages OFF on input line 4172.
+Package hyperref Info: Backreferencing OFF on input line 4177.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4424.
+\c@Hy@tempcnt=\count280
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4763.
+\XeTeXLinkMargin=\dimen143
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count281
+\Field@Width=\dimen144
+\Fld@charsize=\dimen145
+Package hyperref Info: Hyper figures OFF on input line 6042.
+Package hyperref Info: Link nesting OFF on input line 6047.
+Package hyperref Info: Hyper index ON on input line 6050.
+Package hyperref Info: backreferencing OFF on input line 6057.
+Package hyperref Info: Link coloring ON on input line 6060.
+Package hyperref Info: Link coloring with OCG OFF on input line 6067.
+Package hyperref Info: PDF/A mode OFF on input line 6072.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count282
+\c@Item=\count283
+\c@Hfootnote=\count284
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2024-11-05 v7.01l Hyperref driver for pdfTeX
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count285
+\c@bookmark@seq@number=\count286
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(/usr/local/texlive/2025/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip51
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2024/09/14 v1.9i multicolumn formatting (FMi)
+\c@tracingmulticols=\count287
+\mult@box=\box53
+\multicol@leftmargin=\dimen146
+\c@unbalance=\count288
+\c@collectmore=\count289
+\doublecol@number=\count290
+\multicoltolerance=\count291
+\multicolpretolerance=\count292
+\full@width=\dimen147
+\page@free=\dimen148
+\premulticols=\dimen149
+\postmulticols=\dimen150
+\multicolsep=\skip52
+\multicolbaselineskip=\skip53
+\partial@page=\box54
+\last@line=\box55
+\mc@boxedresult=\box56
+\maxbalancingoverflow=\dimen151
+\mult@rightbox=\box57
+\mult@grightbox=\box58
+\mult@firstbox=\box59
+\mult@gfirstbox=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\c@minrows=\count293
+\c@columnbadness=\count294
+\c@finalcolumnbadness=\count295
+\last@try=\dimen152
+\multicolovershoot=\dimen153
+\multicolundershoot=\dimen154
+\mult@nat@firstbox=\box97
+\colbreak@box=\box98
+\mc@col@check@num=\count296
+)
+(/usr/local/texlive/2025/texmf-dist/tex/latex/lettrine/lettrine.sty
+File: lettrine.sty 2025-01-30 v2.80 (Daniel Flipo)
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/l3packages/xfp/xfp.sty
+Package: xfp 2024-08-16 L3 Floating point unit
+)
+\c@DefaultLines=\count297
+\c@DefaultDepth=\count298
+\DefaultFindent=\dimen155
+\DefaultNindent=\dimen156
+\DefaultSlope=\dimen157
+\DiscardVskip=\dimen158
+\L@lettrine=\box99
+\L@lbox=\box100
+\L@tbox=\box101
+\c@L@lines=\count299
+\c@L@depth=\count300
+\L@Pindent=\dimen159
+\L@Findent=\dimen160
+\L@Nindent=\dimen161
+\L@lraise=\dimen162
+\L@first=\dimen163
+\L@next=\dimen164
+\L@slope=\dimen165
+\L@height=\dimen166
+\L@novskip=\dimen167
+\L@target@ht=\dimen168
+\L@target@dp=\dimen169
+\L@target@tht=\dimen170
+\LettrineWidth=\dimen171
+\LettrineHeight=\dimen172
+\LettrineDepth=\dimen173
+\L@finalht=\dimen174
+\L@finaldp=\dimen175
+
+Loading lettrine.cfg
+(/usr/local/texlive/2025/texmf-dist/tex/latex/lettrine/lettrine.cfg)
+\Lettrine@tweaks=\toks19
+\Llist@everypar=\toks20
+)
+LaTeX Font Info:    Trying to load font information for T1+LinuxLibertineT-TLF 
+on input line 11.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/libertine/T1LinuxLibertineT-TLF.f
+d
+File: T1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for T1/Li
+nuxLibertineT-TLF.
+)
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 10.0pt on input line 11.
+ (./libertine-samples.aux)
+\openout1 = `libertine-samples.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+\c@mv@tabular=\count301
+\c@mv@boldtabular=\count302
+Package hyperref Info: Link coloring ON on input line 11.
+ (./libertine-samples.out) (./libertine-samples.out)
+\@outlinefile=\write3
+\openout3 = `libertine-samples.out'.
+
+ (/usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count303
+\scratchdimen=\dimen176
+\scratchbox=\box102
+\nofMPsegments=\count304
+\nofMParguments=\count305
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count306
+\MPscratchDim=\dimen177
+\MPnumerator=\count307
+\makeMPintoPDFobject=\count308
+\everyMPtoPDFconversion=\toks22
+)
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 20.74pt on input line 13.
+LaTeX Font Info:    Trying to load font information for T1+LinuxLibertineDispla
+yT-TLF on input line 14.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/libertine/T1LinuxLibertineDisplay
+T-TLF.fd
+File: T1LinuxLibertineDisplayT-TLF.fd 2017/03/20 (autoinst) Font definitions fo
+r T1/LinuxLibertineDisplayT-TLF.
+)
+LaTeX Font Info:    Font shape `T1/LinuxLibertineDisplayT-TLF/m/n' will be
+(Font)              scaled to size 20.74pt on input line 14.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 14.4pt on input line 17.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
+(Font)              scaled to size 14.4pt on input line 17.
+ (./libertine-samples.toc
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
+(Font)              scaled to size 10.0pt on input line 1.
+)
+\tf@toc=\write4
+\openout4 = `libertine-samples.toc'.
+
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 12.0pt on input line 22.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
+(Font)              scaled to size 12.0pt on input line 22.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
+(Font)              scaled to size 10.0pt on input line 26.
+
+
+[1
+
+{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
+al/texlive/2025/texmf-dist/fonts/enc/dvips/libertine/lbtn_ilz2ox.enc}{/usr/loca
+l/texlive/2025/texmf-dist/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{/usr/local
+/texlive/2025/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}{/usr/local/
+texlive/2025/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc}]
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/it' will be
+(Font)              scaled to size 10.0pt on input line 33.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/sc' will be
+(Font)              scaled to size 10.0pt on input line 38.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/scit' will be
+(Font)              scaled to size 10.0pt on input line 41.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/sc' will be
+(Font)              scaled to size 10.0pt on input line 44.
+
+
+[2{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/libertine/lbtn_ki75ao.enc
+}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/libertine/lbtn_ncsllp.enc}
+{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/libertine/lbtn_iqbcqn.enc}{
+/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/libertine/lbtn_tlukpt.enc}]
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/scit' will be
+(Font)              scaled to size 10.0pt on input line 48.
+LaTeX Font Info:    Trying to load font information for T1+LinuxLibertineT-TOsF
+ on input line 56.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/libertine/T1LinuxLibertineT-TOsF.
+fd
+File: T1LinuxLibertineT-TOsF.fd 2017/03/20 (autoinst) Font definitions for T1/L
+inuxLibertineT-TOsF.
+)
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TOsF/m/n' will be
+(Font)              scaled to size 10.0pt on input line 56.
+LaTeX Font Info:    Trying to load font information for T1+LinuxLibertineT-LF o
+n input line 68.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/libertine/T1LinuxLibertineT-LF.fd
+File: T1LinuxLibertineT-LF.fd 2017/03/20 (autoinst) Font definitions for T1/Lin
+uxLibertineT-LF.
+)
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-LF/m/n' will be
+(Font)              scaled to size 10.0pt on input line 68.
+LaTeX Font Info:    Trying to load font information for T1+LinuxLibertineT-Sup 
+on input line 72.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/libertine/T1LinuxLibertineT-Sup.f
+d
+File: T1LinuxLibertineT-Sup.fd 2017/03/20 (autoinst) Font definitions for T1/Li
+nuxLibertineT-Sup.
+)
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-Sup/m/n' will be
+(Font)              scaled to size 10.0pt on input line 72.
+
+
+[3{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/libertine/lbtn_jm7hzd.enc
+}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/libertine/lbtn_v2xmgd.enc}
+{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/libertine/lbtn_qacof3.enc}{
+/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/libertine/lbtn_xz74p6.enc}]
+LaTeX Font Info:    Trying to load font information for T1+LinuxBiolinumT-TLF o
+n input line 76.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/libertine/T1LinuxBiolinumT-TLF.fd
+File: T1LinuxBiolinumT-TLF.fd 2017/03/20 (autoinst) Font definitions for T1/Lin
+uxBiolinumT-TLF.
+)
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
+(Font)              scaled to size 10.0pt on input line 76.
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/it' will be
+(Font)              scaled to size 10.0pt on input line 83.
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
+(Font)              scaled to size 10.0pt on input line 86.
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/it' in size <10> not av
+ailable
+(Font)              Font shape `T1/LinuxBiolinumT-TLF/b/sl' tried instead on in
+put line 90.
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/sl' will be
+(Font)              scaled to size 10.0pt on input line 90.
+
+
+[4
+
+{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/libertine/lbtn_25tcsq.enc}]
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/sc' will be
+(Font)              scaled to size 10.0pt on input line 93.
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/scit' will be
+(Font)              scaled to size 10.0pt on input line 96.
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/sc' will be
+(Font)              scaled to size 10.0pt on input line 99.
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/scit' in size <10> not 
+available
+(Font)              Font shape `T1/LinuxBiolinumT-TLF/b/scsl' tried instead on 
+input line 103.
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/scsl' will be
+(Font)              scaled to size 10.0pt on input line 103.
+
+
+[5{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/libertine/lbtn_omcwp2.enc
+}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/libertine/lbtn_jtta5h.enc}
+]
+LaTeX Font Info:    Trying to load font information for T1+LinuxBiolinumT-TOsF 
+on input line 111.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/libertine/T1LinuxBiolinumT-TOsF.f
+d
+File: T1LinuxBiolinumT-TOsF.fd 2017/03/20 (autoinst) Font definitions for T1/Li
+nuxBiolinumT-TOsF.
+)
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TOsF/m/n' will be
+(Font)              scaled to size 10.0pt on input line 111.
+LaTeX Font Info:    Trying to load font information for T1+LinuxBiolinumT-LF on
+ input line 123.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/libertine/T1LinuxBiolinumT-LF.fd
+File: T1LinuxBiolinumT-LF.fd 2017/03/20 (autoinst) Font definitions for T1/Linu
+xBiolinumT-LF.
+)
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-LF/m/n' will be
+(Font)              scaled to size 10.0pt on input line 123.
+LaTeX Font Info:    Trying to load font information for T1+LinuxBiolinumT-Sup o
+n input line 127.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/libertine/T1LinuxBiolinumT-Sup.fd
+File: T1LinuxBiolinumT-Sup.fd 2017/03/20 (autoinst) Font definitions for T1/Lin
+uxBiolinumT-Sup.
+)
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-Sup/m/n' will be
+(Font)              scaled to size 10.0pt on input line 127.
+
+
+[6{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/libertine/lbtn_mx3chd.enc
+}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/libertine/lbtn_pwsgbx.enc}
+]
+LaTeX Font Info:    Trying to load font information for T1+LinuxLibertineMonoT-
+TLF on input line 130.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/libertine/T1LinuxLibertineMonoT-T
+LF.fd
+File: T1LinuxLibertineMonoT-TLF.fd 2019/05/20 (autoinst) Font definitions for T
+1/LinuxLibertineMonoT-TLF.
+)
+LaTeX Font Info:    Font shape `T1/LinuxLibertineMonoT-TLF/m/n' in size <10> no
+t available
+(Font)              Font shape `T1/LinuxLibertineMonoT-TLF/regular/n' tried ins
+tead on input line 130.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineMonoT-TLF/regular/n' will be
+(Font)              scaled to size 10.0pt on input line 130.
+
+Overfull \hbox (19.79965pt too wide) in paragraph at lines 134--134
+\T1/LinuxLibertineMonoT-TLF/regular/n/10 Lorem ipsum dolor sit amet, consectetu
+er adipiscing elit.
+ []
+
+
+Overfull \hbox (38.99963pt too wide) in paragraph at lines 134--134
+\T1/LinuxLibertineMonoT-TLF/regular/n/10 Ut purus elit, vestibulum ut, placerat
+ ac, adipiscing vitae,
+ []
+
+
+Overfull \hbox (26.19965pt too wide) in paragraph at lines 134--134
+\T1/LinuxLibertineMonoT-TLF/regular/n/10 felis. Curabitur dictum gravida mauris
+. Nam arcu libero,
+ []
+
+
+Overfull \hbox (19.79965pt too wide) in paragraph at lines 134--134
+\T1/LinuxLibertineMonoT-TLF/regular/n/10 nonummy eget, consectetuer id, vulputa
+te a, magna. Donec
+ []
+
+
+Overfull \hbox (58.19962pt too wide) in paragraph at lines 134--134
+\T1/LinuxLibertineMonoT-TLF/regular/n/10 vehicula augue eu neque. Pellentesque 
+habitant morbi tristique
+ []
+
+
+Overfull \hbox (6.99966pt too wide) in paragraph at lines 134--134
+\T1/LinuxLibertineMonoT-TLF/regular/n/10 senectus et netus et malesuada fames a
+c turpis egestas.
+ []
+
+
+Overfull \hbox (0.59967pt too wide) in paragraph at lines 134--134
+\T1/LinuxLibertineMonoT-TLF/regular/n/10 Mauris ut leo. Cras viverra metus rhon
+cus sem. Nulla
+ []
+
+
+Overfull \hbox (13.39966pt too wide) in paragraph at lines 134--134
+\T1/LinuxLibertineMonoT-TLF/regular/n/10 et lectus vestibulum urna fringilla ul
+trices. Phasellus
+ []
+
+
+Overfull \hbox (32.59964pt too wide) in paragraph at lines 134--134
+\T1/LinuxLibertineMonoT-TLF/regular/n/10 eu tellus sit amet tortor gravida plac
+erat. Integer sapien
+ []
+
+
+Overfull \hbox (26.19965pt too wide) in paragraph at lines 134--134
+\T1/LinuxLibertineMonoT-TLF/regular/n/10 est, iaculis in, pretium quis, viverra
+ ac, nunc. Praesent
+ []
+
+
+Overfull \hbox (38.99963pt too wide) in paragraph at lines 134--134
+\T1/LinuxLibertineMonoT-TLF/regular/n/10 eget sem vel leo ultrices bibendum. Ae
+nean faucibus. Morbi
+ []
+
+
+Overfull \hbox (19.79965pt too wide) in paragraph at lines 134--134
+\T1/LinuxLibertineMonoT-TLF/regular/n/10 dolor nulla, malesuada eu, pulvinar at
+, mollis ac, nulla.
+ []
+
+
+Overfull \hbox (0.59967pt too wide) in paragraph at lines 134--134
+\T1/LinuxLibertineMonoT-TLF/regular/n/10 Curabitur auctor semper nulla. Donec v
+arius orci eget
+ []
+
+
+Overfull \hbox (38.99963pt too wide) in paragraph at lines 134--134
+\T1/LinuxLibertineMonoT-TLF/regular/n/10 risus. Duis nibh mi, congue eu, accums
+an eleifend, sagittis
+ []
+
+
+Overfull \hbox (32.59964pt too wide) in paragraph at lines 134--134
+\T1/LinuxLibertineMonoT-TLF/regular/n/10 quis, diam. Duis eget orci sit amet or
+ci dignissim rutrum. 
+ []
+
+LaTeX Font Info:    Font shape `T1/LinuxLibertineMonoT-TLF/m/it' in size <10> n
+ot available
+(Font)              Font shape `T1/LinuxLibertineMonoT-TLF/regular/it' tried in
+stead on input line 136.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineMonoT-TLF/regular/it' in size 
+<10> not available
+(Font)              Font shape `T1/LinuxLibertineMonoT-TLF/regular/sl' tried in
+stead on input line 136.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineMonoT-TLF/regular/sl' will be
+(Font)              scaled to size 10.0pt on input line 136.
+
+Overfull \hbox (19.79965pt too wide) in paragraph at lines 136--137
+[]\T1/LinuxLibertineMonoT-TLF/regular/sl/10 Lorem ipsum dolor sit amet, consect
+etuer adipiscing elit.
+ []
+
+
+Overfull \hbox (38.99963pt too wide) in paragraph at lines 136--137
+\T1/LinuxLibertineMonoT-TLF/regular/sl/10 Ut purus elit, vestibulum ut, placera
+t ac, adipiscing vitae,
+ []
+
+
+Overfull \hbox (26.19965pt too wide) in paragraph at lines 136--137
+\T1/LinuxLibertineMonoT-TLF/regular/sl/10 felis. Curabitur dictum gravida mauri
+s. Nam arcu libero,
+ []
+
+
+Overfull \hbox (19.79965pt too wide) in paragraph at lines 136--137
+\T1/LinuxLibertineMonoT-TLF/regular/sl/10 nonummy eget, consectetuer id, vulput
+ate a, magna. Donec
+ []
+
+
+Overfull \hbox (58.19962pt too wide) in paragraph at lines 136--137
+\T1/LinuxLibertineMonoT-TLF/regular/sl/10 vehicula augue eu neque. Pellentesque
+ habitant morbi tristique
+ []
+
+
+Overfull \hbox (6.99966pt too wide) in paragraph at lines 136--137
+\T1/LinuxLibertineMonoT-TLF/regular/sl/10 senectus et netus et malesuada fames 
+ac turpis egestas.
+ []
+
+
+Overfull \hbox (0.59967pt too wide) in paragraph at lines 136--137
+\T1/LinuxLibertineMonoT-TLF/regular/sl/10 Mauris ut leo. Cras viverra metus rho
+ncus sem. Nulla
+ []
+
+
+Overfull \hbox (13.39966pt too wide) in paragraph at lines 136--137
+\T1/LinuxLibertineMonoT-TLF/regular/sl/10 et lectus vestibulum urna fringilla u
+ltrices. Phasellus
+ []
+
+
+Overfull \hbox (32.59964pt too wide) in paragraph at lines 136--137
+\T1/LinuxLibertineMonoT-TLF/regular/sl/10 eu tellus sit amet tortor gravida pla
+cerat. Integer sapien
+ []
+
+
+Overfull \hbox (26.19965pt too wide) in paragraph at lines 136--137
+\T1/LinuxLibertineMonoT-TLF/regular/sl/10 est, iaculis in, pretium quis, viverr
+a ac, nunc. Praesent
+ []
+
+
+Overfull \hbox (38.99963pt too wide) in paragraph at lines 136--137
+\T1/LinuxLibertineMonoT-TLF/regular/sl/10 eget sem vel leo ultrices bibendum. A
+enean faucibus. Morbi
+ []
+
+
+Overfull \hbox (19.79965pt too wide) in paragraph at lines 136--137
+\T1/LinuxLibertineMonoT-TLF/regular/sl/10 dolor nulla, malesuada eu, pulvinar a
+t, mollis ac, nulla.
+ []
+
+
+Overfull \hbox (0.59967pt too wide) in paragraph at lines 136--137
+\T1/LinuxLibertineMonoT-TLF/regular/sl/10 Curabitur auctor semper nulla. Donec 
+varius orci eget
+ []
+
+
+Overfull \hbox (38.99963pt too wide) in paragraph at lines 136--137
+\T1/LinuxLibertineMonoT-TLF/regular/sl/10 risus. Duis nibh mi, congue eu, accum
+san eleifend, sagittis
+ []
+
+
+Overfull \hbox (32.59964pt too wide) in paragraph at lines 136--137
+\T1/LinuxLibertineMonoT-TLF/regular/sl/10 quis, diam. Duis eget orci sit amet o
+rci dignissim rutrum. 
+ []
+
+LaTeX Font Info:    Font shape `T1/LinuxLibertineMonoT-TLF/b/n' in size <10> no
+t available
+(Font)              Font shape `T1/LinuxLibertineMonoT-TLF/bold/n' tried instea
+d on input line 139.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineMonoT-TLF/bold/n' will be
+(Font)              scaled to size 10.0pt on input line 139.
+
+Overfull \hbox (19.79965pt too wide) in paragraph at lines 139--140
+[]\T1/LinuxLibertineMonoT-TLF/bold/n/10 Lorem ipsum dolor sit amet, consectetue
+r adipiscing elit.
+ []
+
+
+Overfull \hbox (38.99963pt too wide) in paragraph at lines 139--140
+\T1/LinuxLibertineMonoT-TLF/bold/n/10 Ut purus elit, vestibulum ut, placerat ac
+, adipiscing vitae,
+ []
+
+
+Overfull \hbox (26.19965pt too wide) in paragraph at lines 139--140
+\T1/LinuxLibertineMonoT-TLF/bold/n/10 felis. Curabitur dictum gravida mauris. N
+am arcu libero,
+ []
+
+
+Overfull \hbox (19.79965pt too wide) in paragraph at lines 139--140
+\T1/LinuxLibertineMonoT-TLF/bold/n/10 nonummy eget, consectetuer id, vulputate 
+a, magna. Donec
+ []
+
+
+Overfull \hbox (58.19962pt too wide) in paragraph at lines 139--140
+\T1/LinuxLibertineMonoT-TLF/bold/n/10 vehicula augue eu neque. Pellentesque hab
+itant morbi tristique
+ []
+
+
+Overfull \hbox (6.99966pt too wide) in paragraph at lines 139--140
+\T1/LinuxLibertineMonoT-TLF/bold/n/10 senectus et netus et malesuada fames ac t
+urpis egestas.
+ []
+
+
+Overfull \hbox (0.59967pt too wide) in paragraph at lines 139--140
+\T1/LinuxLibertineMonoT-TLF/bold/n/10 Mauris ut leo. Cras viverra metus rhoncus
+ sem. Nulla
+ []
+
+
+Overfull \hbox (13.39966pt too wide) in paragraph at lines 139--140
+\T1/LinuxLibertineMonoT-TLF/bold/n/10 et lectus vestibulum urna fringilla ultri
+ces. Phasellus
+ []
+
+
+Overfull \hbox (32.59964pt too wide) in paragraph at lines 139--140
+\T1/LinuxLibertineMonoT-TLF/bold/n/10 eu tellus sit amet tortor gravida placera
+t. Integer sapien
+ []
+
+
+Overfull \hbox (26.19965pt too wide) in paragraph at lines 139--140
+\T1/LinuxLibertineMonoT-TLF/bold/n/10 est, iaculis in, pretium quis, viverra ac
+, nunc. Praesent
+ []
+
+
+Overfull \hbox (38.99963pt too wide) in paragraph at lines 139--140
+\T1/LinuxLibertineMonoT-TLF/bold/n/10 eget sem vel leo ultrices bibendum. Aenea
+n faucibus. Morbi
+ []
+
+
+Overfull \hbox (19.79965pt too wide) in paragraph at lines 139--140
+\T1/LinuxLibertineMonoT-TLF/bold/n/10 dolor nulla, malesuada eu, pulvinar at, m
+ollis ac, nulla.
+ []
+
+
+Overfull \hbox (0.59967pt too wide) in paragraph at lines 139--140
+\T1/LinuxLibertineMonoT-TLF/bold/n/10 Curabitur auctor semper nulla. Donec vari
+us orci eget
+ []
+
+
+Overfull \hbox (38.99963pt too wide) in paragraph at lines 139--140
+\T1/LinuxLibertineMonoT-TLF/bold/n/10 risus. Duis nibh mi, congue eu, accumsan 
+eleifend, sagittis
+ []
+
+
+Overfull \hbox (32.59964pt too wide) in paragraph at lines 139--140
+\T1/LinuxLibertineMonoT-TLF/bold/n/10 quis, diam. Duis eget orci sit amet orci 
+dignissim rutrum. 
+ []
+
+
+
+[7
+
+{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/libertine/lbtn_dhi6qf.enc}]
+LaTeX Font Info:    Font shape `T1/LinuxLibertineMonoT-TLF/b/it' in size <10> n
+ot available
+(Font)              Font shape `T1/LinuxLibertineMonoT-TLF/bold/it' tried inste
+ad on input line 143.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineMonoT-TLF/bold/it' in size <10
+> not available
+(Font)              Font shape `T1/LinuxLibertineMonoT-TLF/bold/sl' tried inste
+ad on input line 143.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineMonoT-TLF/bold/sl' will be
+(Font)              scaled to size 10.0pt on input line 143.
+
+Overfull \hbox (19.79965pt too wide) in paragraph at lines 143--144
+[]\T1/LinuxLibertineMonoT-TLF/bold/sl/10 Lorem ipsum dolor sit amet, consectetu
+er adipiscing elit.
+ []
+
+
+Overfull \hbox (38.99963pt too wide) in paragraph at lines 143--144
+\T1/LinuxLibertineMonoT-TLF/bold/sl/10 Ut purus elit, vestibulum ut, placerat a
+c, adipiscing vitae,
+ []
+
+
+Overfull \hbox (26.19965pt too wide) in paragraph at lines 143--144
+\T1/LinuxLibertineMonoT-TLF/bold/sl/10 felis. Curabitur dictum gravida mauris. 
+Nam arcu libero,
+ []
+
+
+Overfull \hbox (19.79965pt too wide) in paragraph at lines 143--144
+\T1/LinuxLibertineMonoT-TLF/bold/sl/10 nonummy eget, consectetuer id, vulputate
+ a, magna. Donec
+ []
+
+
+Overfull \hbox (58.19962pt too wide) in paragraph at lines 143--144
+\T1/LinuxLibertineMonoT-TLF/bold/sl/10 vehicula augue eu neque. Pellentesque ha
+bitant morbi tristique
+ []
+
+
+Overfull \hbox (6.99966pt too wide) in paragraph at lines 143--144
+\T1/LinuxLibertineMonoT-TLF/bold/sl/10 senectus et netus et malesuada fames ac 
+turpis egestas.
+ []
+
+
+Overfull \hbox (0.59967pt too wide) in paragraph at lines 143--144
+\T1/LinuxLibertineMonoT-TLF/bold/sl/10 Mauris ut leo. Cras viverra metus rhoncu
+s sem. Nulla
+ []
+
+
+Overfull \hbox (13.39966pt too wide) in paragraph at lines 143--144
+\T1/LinuxLibertineMonoT-TLF/bold/sl/10 et lectus vestibulum urna fringilla ultr
+ices. Phasellus
+ []
+
+
+Overfull \hbox (32.59964pt too wide) in paragraph at lines 143--144
+\T1/LinuxLibertineMonoT-TLF/bold/sl/10 eu tellus sit amet tortor gravida placer
+at. Integer sapien
+ []
+
+
+Overfull \hbox (26.19965pt too wide) in paragraph at lines 143--144
+\T1/LinuxLibertineMonoT-TLF/bold/sl/10 est, iaculis in, pretium quis, viverra a
+c, nunc. Praesent
+ []
+
+
+Overfull \hbox (38.99963pt too wide) in paragraph at lines 143--144
+\T1/LinuxLibertineMonoT-TLF/bold/sl/10 eget sem vel leo ultrices bibendum. Aene
+an faucibus. Morbi
+ []
+
+
+Overfull \hbox (19.79965pt too wide) in paragraph at lines 143--144
+\T1/LinuxLibertineMonoT-TLF/bold/sl/10 dolor nulla, malesuada eu, pulvinar at, 
+mollis ac, nulla.
+ []
+
+
+Overfull \hbox (0.59967pt too wide) in paragraph at lines 143--144
+\T1/LinuxLibertineMonoT-TLF/bold/sl/10 Curabitur auctor semper nulla. Donec var
+ius orci eget
+ []
+
+
+Overfull \hbox (38.99963pt too wide) in paragraph at lines 143--144
+\T1/LinuxLibertineMonoT-TLF/bold/sl/10 risus. Duis nibh mi, congue eu, accumsan
+ eleifend, sagittis
+ []
+
+
+Overfull \hbox (32.59964pt too wide) in paragraph at lines 143--144
+\T1/LinuxLibertineMonoT-TLF/bold/sl/10 quis, diam. Duis eget orci sit amet orci
+ dignissim rutrum. 
+ []
+
+
+Overfull \hbox (26.19965pt too wide) in paragraph at lines 148--149
+\T1/LinuxLibertineMonoT-TLF/regular/n/10 Officially broken off. Often offline, 
+find me flowerless. 
+ []
+
+
+
+[8]
+LaTeX Font Info:    Font shape `T1/LinuxLibertineMonoT-TLF/m/n' in size <17.28>
+ not available
+(Font)              Font shape `T1/LinuxLibertineMonoT-TLF/regular/n' tried ins
+tead on input line 157.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineMonoT-TLF/regular/n' will be
+(Font)              scaled to size 17.28pt on input line 157.
+LaTeX Font Info:    Trying to load font information for T1+LinuxLibertineInitia
+lsT-LF on input line 157.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/libertine/T1LinuxLibertineInitial
+sT-LF.fd
+File: T1LinuxLibertineInitialsT-LF.fd 2012/12/25 (autoinst) Font definitions fo
+r T1/LinuxLibertineInitialsT-LF.
+)
+LaTeX Font Info:    Font shape `T1/LinuxLibertineInitialsT-LF/m/n' will be
+(Font)              scaled to size 17.28pt on input line 157.
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--193
+
+ []
+
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 28.545pt on input line 197.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 43.51352pt on input line 197.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineInitialsT-LF/m/n' will be
+(Font)              scaled to size 43.51352pt on input line 197.
+Package lettrine.sty Info: Targeted height = 28.545pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 29.6392pt (\libertineInitialGlyph 
+{L});
+(lettrine.sty)             reported on input line 197.
+
+Overfull \hbox (5.02368pt too wide) in paragraph at lines 197--208
+[][]\T1/LinuxLibertineT-TLF/m/sc/10 orem ip-sum do-lor sit amet[]\T1/LinuxLiber
+tineT-TLF/m/n/10 , con-sectetuer adip-isc-ing elit. Ut pu-rus elit, vestibu-
+ []
+
+Package lettrine.sty Info: Targeted height = 28.545pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 29.6392pt (\libertineInitialGlyph 
+{I});
+(lettrine.sty)             reported on input line 209.
+
+
+[9
+
+{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/libertine/lbtn_vsrqlo.enc}]
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 24.88pt on input line 220.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineDisplayT-TLF/m/n' will be
+(Font)              scaled to size 24.88pt on input line 222.
+
+
+[10
+
+] (./libertine-samples.aux)
+ ***********
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+ ***********
+Package rerunfilecheck Info: File `libertine-samples.out' has not changed.
+(rerunfilecheck)             Checksum: 28E5090D0765EFDBAFAC40E8D2A11C63;554.
+ ) 
+Here is how much of TeX's memory you used:
+ 11248 strings out of 473190
+ 193395 string characters out of 5715800
+ 670756 words of memory out of 5000000
+ 34227 multiletter control sequences out of 15000+600000
+ 719663 words of font info for 109 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 79i,7n,93p,279b,463s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2025/texmf-dist/fonts/type1/public/libertine/LinBiolinumT
+.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/libertine/LinBiolin
+umTB.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/libertine/LinBi
+olinumTBO.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/libertine/
+LinBiolinumTI.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/libert
+ine/LinLibertineDisplayT.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/pu
+blic/libertine/LinLibertineIT.pfb></usr/local/texlive/2025/texmf-dist/fonts/typ
+e1/public/libertine/LinLibertineMT.pfb></usr/local/texlive/2025/texmf-dist/font
+s/type1/public/libertine/LinLibertineMTB.pfb></usr/local/texlive/2025/texmf-dis
+t/fonts/type1/public/libertine/LinLibertineMTBO.pfb></usr/local/texlive/2025/te
+xmf-dist/fonts/type1/public/libertine/LinLibertineMTO.pfb></usr/local/texlive/2
+025/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb></usr/local/texli
+ve/2025/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb></usr/local/
+texlive/2025/texmf-dist/fonts/type1/public/libertine/LinLibertineTBI.pfb></usr/
+local/texlive/2025/texmf-dist/fonts/type1/public/libertine/LinLibertineTI.pfb>
+Output written on libertine-samples.pdf (10 pages, 859339 bytes).
+PDF statistics:
+ 254 PDF objects out of 1000 (max. 8388607)
+ 198 compressed objects within 2 object streams
+ 50 named destinations out of 1000 (max. 500000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+
